@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://fersewald.github.io/csb-pm0km/static/css/main.3bf5bc62.chunk.css",
+    "main.js": "https://fersewald.github.io/csb-pm0km/static/js/main.92a116b9.chunk.js",
+    "main.js.map": "https://fersewald.github.io/csb-pm0km/static/js/main.92a116b9.chunk.js.map",
+    "runtime-main.js": "https://fersewald.github.io/csb-pm0km/static/js/runtime-main.907da697.js",
+    "runtime-main.js.map": "https://fersewald.github.io/csb-pm0km/static/js/runtime-main.907da697.js.map",
+    "static/js/2.fd946229.chunk.js": "https://fersewald.github.io/csb-pm0km/static/js/2.fd946229.chunk.js",
+    "static/js/2.fd946229.chunk.js.map": "https://fersewald.github.io/csb-pm0km/static/js/2.fd946229.chunk.js.map",
+    "index.html": "https://fersewald.github.io/csb-pm0km/index.html",
+    "static/css/main.3bf5bc62.chunk.css.map": "https://fersewald.github.io/csb-pm0km/static/css/main.3bf5bc62.chunk.css.map",
+    "static/js/2.fd946229.chunk.js.LICENSE.txt": "https://fersewald.github.io/csb-pm0km/static/js/2.fd946229.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.907da697.js",
+    "static/js/2.fd946229.chunk.js",
+    "static/css/main.3bf5bc62.chunk.css",
+    "static/js/main.92a116b9.chunk.js"
+  ]
+}
